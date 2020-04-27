@@ -1,11 +1,13 @@
 ---
-title: About
+title: About PERA
 date: 2019-07-09
 menu: main
+draft: false
+
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
-## How to use?
+## How to use PERA?
 
 ### Managing content with [Forestry](https://forestry.io)
 
